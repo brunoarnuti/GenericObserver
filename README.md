@@ -10,4 +10,4 @@ Ahora que tenemos la solución funcionando con el patrón Observer, cambiaremos 
 
 Modificar IObserver e IObservable para que funcionen con tipos genéricos, es decir, puedo ser notificados de cambios de `Temperature` o de cualquier otro tipo.
 
-Agregue clases de ejemplo.
+(SE AGREGARON CLASES DE EJEMPLO)
